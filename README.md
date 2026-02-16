@@ -1,2 +1,2 @@
-# microservice-sensors-temperature-monitoring
-Repository for temperature monitoring of the project microservices-sensors
+# sensors-microservice-temperature-monitoring
+Repository for microservice temperature monitoring of the project sensors
